@@ -1,0 +1,10 @@
+{
+  "name": "my-projects",
+  "version": "1.0.0",
+  "description": "Small Python and JavaScript practice projects",
+  "type": "module",
+  "scripts": {
+    "guess": "node javascript/number-guessing-game.js"
+  },
+  "license": "MIT"
+}
